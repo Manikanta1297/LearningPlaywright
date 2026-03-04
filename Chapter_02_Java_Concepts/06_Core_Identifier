@@ -1,0 +1,41 @@
+// Identifiers ,Literal ,Operator 
+  
+var a = 10; 
+a = 20;
+console.log(a);
+
+// identifier a = (Name which is given to the Container)
+
+//10 -- > variable value =Literal or Value  -- > 10,20 "Hello ",true ,false ,null .undefined
+
+//= --> Operator
+
+// var is Key word
+
+//Comments ,Identifier , literal .Operator
+
+//Rules of IDENTIFIER
+
+var name = "hello";
+console.log(name);
+
+var $name = "hello";
+console.log($name);
+
+var _name = "hello";
+console.log(_name);
+
+var name1 = "hello";
+console.log(name1);
+
+var name_1 = "hello";
+console.log(name_1);
+
+var name$1 = "hello";
+console.log(name$1);
+
+var name$1$ = "hello";
+console.log(name$1$);
+
+var name_1$1_2 = "hello";
+console.log(name_1$1_2);

@@ -1,0 +1,13 @@
+//console.log(username);
+console.log("manikanta");
+console.log("manikanta");
+console.log("manikanta");
+console.log("manikanta");
+
+let username = "manikanta is awesome";
+console.log(username);
+
+console.log("manikanta");
+console.log("manikanta");
+console.log("manikanta");
+console.log("manikanta");

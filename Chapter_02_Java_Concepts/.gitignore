@@ -1,0 +1,20 @@
+# Java/Build
+target/
+build/
+*.class
+*.jar
+
+# Gradle
+.gradle/
+gradle-app.setting
+
+# IntelliJ
+.idea/
+*.iml
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
